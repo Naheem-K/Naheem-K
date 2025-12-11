@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naheem-k" alt="naheem-k" /></a> </p>
 
-- 🔭 I’m currently working on **M. Tube- YouTube downloader**
+- 🔭 I’m currently working on **TechbyHeart**
 
-- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naheem-K](https://github.com/Naheem-K)
 
