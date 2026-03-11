@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **TechbyHeart**
+- 🔭 I'm currently working at **TechbyHeart**
 - 📊 Passionate about turning data into actionable insights
 - 🌱 Currently exploring advanced machine learning techniques
 - 💡 Love working with Python, Pandas, and data visualization tools
